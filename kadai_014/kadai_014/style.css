@@ -1,0 +1,33 @@
+@charset "utf-8";
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+    font-size: 20px;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-align: center;
+    text-shadow: 1px 1px 1px gray;
+    border-bottom: 3px solid rgba(115,114,114);
+}
+.color-skyblue {
+    color: skyblue;
+}
+.color-pink {
+    color: rgba(255,192,203);
+}
+.skyblue {
+    color: skyblue;
+    text-align: center;
+}
+.pink {
+    color: rgba(255,192,203);
+    text-align: center;
+}
+#basic p {
+    font-weight: bold;
+}
+p {
+    text-align: center;
+}
